@@ -1,0 +1,2 @@
+fix_yahoo_finance == 0.1.35
+quandl == 3.6.1
